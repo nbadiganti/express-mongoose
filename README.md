@@ -34,3 +34,10 @@ Step 4 - Now access the below urls to post and get the data via apis
                            }
               
         
+## Authors
+
+* **Nagendra Badiganti** - *Initial work* - [Portfolio](http://nagendra.mobi)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
