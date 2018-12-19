@@ -2,6 +2,8 @@
 Get started with Mongo DB with Express - using Mongoose schema 
 
 This project helps to create APIs using MongoDB with express JS to handle requests. 
+[Documentation](https://nbadiganti.github.io/express-mongoose/)
+
 
 ## Setup and installations 
 Step 1 - install mongo db [Link](https://docs.mongodb.com/manual/installation/)  <br />
