@@ -34,9 +34,16 @@ Step 4 - Now access the below urls to post and get the data via API`s <br />
                            }
               
         
-## Authors
 
-* **Nagendra Badiganti** - *Initial work* - [Portfolio](http://nagendra.mobi)
+### Created & Maintained By
+
+[Nagendra Badiganti](https://github.com/nbadiganti) ([@nagendrabadigan](https://www.twitter.com/nagendrabadigan)) 
+([Insta](https://www.instagram.com/nbadiganti))
+
+> If you found this project helpful or you learned something from the source code and want to thank me, consider buying me a cup of :coffee:
+>
+> * [PayPal](https://www.paypal.me/codingcursor/)
+> * [Portfolio](https://www.driftycode.com)
 
 ## License
 
